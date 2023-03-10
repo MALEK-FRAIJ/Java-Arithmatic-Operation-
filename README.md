@@ -26,12 +26,12 @@ This is a simple GUI calculator app that will perform basic arithmetic operation
 
 ### Java-Arithmatic-Operation how it work
 
-<img src="stuff/img/1.png" alt="product" width="500px" height="500px"/>
-<img src="stuff/img/2.png" alt="product" width="500px" height="500px"/>
+<img src="stuff/img/1.png" alt="product" width="700px" height="500px"/>
+<img src="stuff/img/2.png" alt="product" width="700px" height="500px"/>
 
 ### Java-Arithmatic-Operation how it work
 
-<img src="stuff/img/3.png" alt="product" width="500px" height="500px"/>
+<img src="stuff/img/3.png" alt="product" width="700px" height="500px"/>
 
 <div>
 
