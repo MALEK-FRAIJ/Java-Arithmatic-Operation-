@@ -15,6 +15,7 @@ This is a simple GUI calculator app that will perform basic arithmetic operation
 
 - [Introduction](#introduction)
 - [Java-Arithmatic-Operation Snapshot](#java-arithmatic-operation-snapshot)
+- [Download Java-Arithmatic-Operation Desktop app](#download-java-arithmatic-operation-desktop-app)
 - [Java-Arithmatic-Operation](#java-arithmatic-operation)
 
 # Introduction 
@@ -33,6 +34,17 @@ This is a simple GUI calculator app that will perform basic arithmetic operation
 <img src="stuff/img/3.png" alt="product" width="500px" height="500px"/>
 
 <div>
+
+<div>
+
+# Download Java-Arithmatic-Operation Desktop app
+
+<h4>Link:
+<a href="">Download Java-Arithmatic-Operation Desktop app</a><br>
+Password: OP1234
+</h4>
+
+</div>
 
 # Java-Arithmatic-Operation
 
